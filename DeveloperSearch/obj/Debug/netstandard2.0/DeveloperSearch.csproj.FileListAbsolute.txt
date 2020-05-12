@@ -1,0 +1,14 @@
+C:\Users\Franklin\source\repos\JavaDevelopers\DeveloperSearch\DeveloperSearch\bin\Debug\netstandard2.0\DeveloperSearch.deps.json
+C:\Users\Franklin\source\repos\JavaDevelopers\DeveloperSearch\DeveloperSearch\bin\Debug\netstandard2.0\DeveloperSearch.dll
+C:\Users\Franklin\source\repos\JavaDevelopers\DeveloperSearch\DeveloperSearch\bin\Debug\netstandard2.0\ref\DeveloperSearch.dll
+C:\Users\Franklin\source\repos\JavaDevelopers\DeveloperSearch\DeveloperSearch\bin\Debug\netstandard2.0\DeveloperSearch.pdb
+C:\Users\Franklin\source\repos\JavaDevelopers\DeveloperSearch\DeveloperSearch\obj\Debug\netstandard2.0\DeveloperSearch.csprojAssemblyReference.cache
+C:\Users\Franklin\source\repos\JavaDevelopers\DeveloperSearch\DeveloperSearch\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Franklin\source\repos\JavaDevelopers\DeveloperSearch\DeveloperSearch\obj\Debug\netstandard2.0\DeveloperPage.xaml.g.cs
+C:\Users\Franklin\source\repos\JavaDevelopers\DeveloperSearch\DeveloperSearch\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Franklin\source\repos\JavaDevelopers\DeveloperSearch\DeveloperSearch\obj\Debug\netstandard2.0\DeveloperSearch.AssemblyInfoInputs.cache
+C:\Users\Franklin\source\repos\JavaDevelopers\DeveloperSearch\DeveloperSearch\obj\Debug\netstandard2.0\DeveloperSearch.AssemblyInfo.cs
+C:\Users\Franklin\source\repos\JavaDevelopers\DeveloperSearch\DeveloperSearch\obj\Debug\netstandard2.0\DeveloperSearch.dll
+C:\Users\Franklin\source\repos\JavaDevelopers\DeveloperSearch\DeveloperSearch\obj\Debug\netstandard2.0\ref\DeveloperSearch.dll
+C:\Users\Franklin\source\repos\JavaDevelopers\DeveloperSearch\DeveloperSearch\obj\Debug\netstandard2.0\DeveloperSearch.pdb
+C:\Users\Franklin\source\repos\JavaDevelopers\DeveloperSearch\DeveloperSearch\obj\Debug\netstandard2.0\XamlC.stamp

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:ffimageloading="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+             mc:Ignorable="d"
+             BackgroundColor="Pink"
+             Title="Java Geeks"
+             x:Class="DeveloperSearch.DeveloperPage">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Order="Primary"
+                     Text="Text Item"
+                     Priority="0"/>
+        <ToolbarItem Order="Secondary"
+                     Text="Secondary Item"
+                     Priority="1"/>
+    </ContentPage.ToolbarItems>
+
+    <StackLayout Spacing="30">
+
+        <ffimageloading:CachedImage
+                        x:Name="image"
+                        WidthRequest="200" 
+                        HeightRequest="200"
+                        CacheType="All"
+                        VerticalOptions="Center"
+                        HorizontalOptions="Center"
+                        Margin="0,50,0,0">
+        </ffimageloading:CachedImage>
+
+        <Label BackgroundColor="Brown">
+            <Label.FormattedText>
+                <FormattedString>
+                    <Span Text="Name:" TextColor="Blue" FontSize="14"/>
+                    <Span Text="    "/>
+                    <Span x:Name="name" FontSize="14"/>
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+
+        <Label BackgroundColor="Brown">
+            <Label.FormattedText>
+                <FormattedString>
+                    <Span Text="P.Link:" TextColor="Blue" FontSize="14"/>
+                    <Span Text="    "/>
+                    <Span x:Name="profileLink" FontSize="14"/>
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+
+        <ImageButton
+                x:Name="imageButton"
+                IsEnabled="True"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                WidthRequest="70"
+                HeightRequest="70"
+                Margin="5,50,0,0"
+                Aspect="AspectFill"
+                Clicked="imageButton_Clicked">
+
+        </ImageButton>
+
+    </StackLayout>
+
+</ContentPage>
